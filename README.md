@@ -1,5 +1,7 @@
 ##  Portfolio
 
+![Portfolio_Photo (1)](https://user-images.githubusercontent.com/87764919/126541673-2979eff6-cc3a-409b-b73e-9ab58def62de.jpg)
+
 ## Skills:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
