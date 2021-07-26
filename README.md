@@ -1,5 +1,7 @@
 ##  Portfolio
 
+Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the [IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/). My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I have experienced web design while developing the [website](http://codigotomate.com.ar/) for our group. I am always learning something! Currently, my main interests revolve around data science and data viz.
+
 ![Portfolio_Photo (1)](https://user-images.githubusercontent.com/87764919/126541673-2979eff6-cc3a-409b-b73e-9ab58def62de.jpg)
 
 ## Skills:
