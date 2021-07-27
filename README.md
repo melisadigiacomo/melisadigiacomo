@@ -12,6 +12,7 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
  
 ## Find me at:
