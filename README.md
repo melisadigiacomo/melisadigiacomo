@@ -41,11 +41,11 @@ Code to download databases from a website (urllib.request) and has functions to 
 ![MostCommonTrees](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Mostcommon_trees.png)
 
 ## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-Tool that scrapes data from Yahoo Finance (beautifulsoup4) and analyzes a current situation.
+Tool that scrapes data from Yahoo Finance from a specific period of time (datetime and pandas) and analyzes the stock market crashes on a plot.
 
 ![S&P500](https://github.com/melisadigiacomo/yahoo_finance/blob/master/S%26P500%20index.png)
 
 ## [Web Scraping Prices of Top Cryptocurrencies](https://github.com/melisadigiacomo/Webscraping_TopCryptocurrencies) ![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
-Code for web scraping data that returns a table with prices of the top criptocurrencies.
+Code for web scraping data (beautifulsoup4) that returns a table with prices of the top criptocurrencies.
 
 ![Cryptocurrencies_table](https://github.com/melisadigiacomo/Webscraping_TopCryptocurrencies/blob/master/Crypto_table.jpg)
