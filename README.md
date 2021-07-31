@@ -34,6 +34,11 @@ Code that returns a wordcloud of a specific topic or hashtag of Twitter (wordclo
 
 ![#datascience_wordcloud](https://github.com/melisadigiacomo/tweets_wordcloud/blob/master/%23datascience_wordcloud.png)
 
+## [Filling a sticker album simulation](https://github.com/melisadigiacomo/stickeralbum_simulation) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+Functions that simulates the filling of *Copa América* sticker album (number of stickers and price).
+
+![#CopaAmerica_album](https://github.com/melisadigiacomo/stickeralbum_simulation/blob/master/album.png)
+
 
 ## [Buenos Aires Trees Data Analysis](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 Code to download databases from a website (urllib.request) and has functions to build plots (matplotlib and seaborn) and to perform variable comparissons by t-test (spicy.stats).
