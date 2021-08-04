@@ -29,6 +29,12 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 ## Projects overview
 
 
+## [Set Analysis: Venn vs Upset diagrams](https://github.com/melisadigiacomo/SetAnalysis) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+Code that shows the differences between Venn diagrams (VennDiagram) and Upset diagrams (UpSetR).
+
+![UpsetDiagram](https://github.com/melisadigiacomo/SetAnalysis/blob/master/images/AttributeScatterplot.png)
+
+
 ## [Wordcloud with Twitter hashtags](https://github.com/melisadigiacomo/tweets_wordcloud) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 Code that returns a wordcloud of a specific topic or hashtag of Twitter (wordcloud2). Scraped tweets from Twitter API (rtweet). Text Mining (tm and stringr).
 
