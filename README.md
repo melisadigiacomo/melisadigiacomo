@@ -44,7 +44,7 @@ Code that returns a wordcloud of a specific topic or hashtag of Twitter (wordclo
 ## [Book Analysis: Harry Potter](https://github.com/melisadigiacomo/bookanalysis) ![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 Text mining of book. Functions to tokenize (NLTK), manipulate text and build plots (matplotlib). Sentiment analysis (textblob).
 
-![SentimentAnalysis](https://github.com/melisadigiacomo/bookanalysis/blob/master/images/keycharacters.png)
+![SentimentAnalysis](https://github.com/melisadigiacomo/bookanalysis/blob/master/images/characters1.png)
 
 
 ## [Filling a sticker album simulation](https://github.com/melisadigiacomo/stickeralbum_simulation) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
