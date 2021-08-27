@@ -28,6 +28,11 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 
 ## Projects overview
 
+## [Evolution of a plot](https://github.com/melisadigiacomo/plotevolution) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+Step by step, how to make a better data visualization using ggplot2 and ggpubr packages with bill lenght of palmer penguins.
+
+https://user-images.githubusercontent.com/87764919/131042543-a7fdb99a-12af-44a7-99f8-1947ba0d4fd0.mp4
+
 
 ## [Set Analysis: Venn vs Upset diagrams](https://github.com/melisadigiacomo/SetAnalysis) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 Code that shows the differences between Venn diagrams (VennDiagram) and Upset diagrams (UpSetR).
