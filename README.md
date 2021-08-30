@@ -1,6 +1,6 @@
 ##  Portfolio
 
-Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the [IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/). My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I have experienced web design while developing the [website](http://codigotomate.com.ar/) for our group. I am always learning something! Currently, my main interests revolve around data science and data viz.
+Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the [IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/). My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the [website](http://codigotomate.com.ar/) for our group. I am always learning something!
 
 ![Portfolio_Photo (1)](https://user-images.githubusercontent.com/87764919/126541673-2979eff6-cc3a-409b-b73e-9ab58def62de.jpg)
 
@@ -20,10 +20,10 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 ![GIT](https://img.shields.io/badge/GIT-D83B01?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
-![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
-
 
 
 ## Projects overview
