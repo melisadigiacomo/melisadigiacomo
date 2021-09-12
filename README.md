@@ -28,6 +28,11 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 
 ## Projects overview
 
+## [Web Dev](https://github.com/melisadigiacomo/webdev) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+My first steps in the Full Stack Web Dev.
+
+![Contact-card](https://github.com/melisadigiacomo/webdev/blob/master/contact_card/images/contact-card.jpg)
+
 ## [Evolution of a plot](https://github.com/melisadigiacomo/plotevolution) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 Step by step, how to make a better data visualization using ggplot2 and ggpubr packages with bill lenght of palmer penguins.
 
