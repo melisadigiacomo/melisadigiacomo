@@ -28,6 +28,12 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 
 ## Projects overview
 
+## [Data Viz: plotly](https://github.com/melisadigiacomo/dataviz-plotly) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+Data analysis of gapminder dataset. Data visualization using plotly. 
+
+https://user-images.githubusercontent.com/87764919/133643979-a409faf4-3b3d-4b7b-a330-c8dff6edcf8e.mp4
+
+
 ## [Web Dev](https://github.com/melisadigiacomo/webdev) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 My first steps in the Full Stack Web Dev.
 
