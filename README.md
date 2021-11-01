@@ -1,6 +1,7 @@
 ##  Portfolio
 
-Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the [IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/). My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the [website](http://codigotomate.com.ar/) with Wordpress for our group. I am always learning something!
+Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.codes/)** from scratch using plain HTML, CSS and JS.  
+I am always learning something!
 
 ![Portfolio_Photo (1)](https://user-images.githubusercontent.com/87764919/126541673-2979eff6-cc3a-409b-b73e-9ab58def62de.jpg)
 
@@ -38,7 +39,17 @@ Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am cu
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
 Developed my web portfolio. 
 
-https://user-images.githubusercontent.com/87764919/138304289-d55d6ffb-c859-4cee-9826-5ada314c0a3a.mp4  
+https://user-images.githubusercontent.com/87764919/139731719-4a77ae1c-842b-4895-bc8c-c822a1a3cf71.mp4  
+
+<br /> 
+
+## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
+Tool that scrapes data from Yahoo Finance from a specific period of time (datetime and pandas) and analyzes active stocks of popular companies and stock market crashes on plots.  
+### [LINK!](melisadigiacomo.github.io/yahoo_finance/)
+
+![Stocks](https://github.com/melisadigiacomo/yahoo_finance/blob/master/images/October25.png)
+
 
 <br /> 
 
@@ -123,14 +134,6 @@ Functions that simulates the filling of *Copa América* sticker album (number of
 Code to download databases from a website (urllib.request) and has functions to build plots (matplotlib and seaborn) and to perform variable comparissons by t-test (spicy.stats).
 
 ![MostCommonTrees](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Mostcommon_trees.png)
-
-<br /> 
-
-## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
-Tool that scrapes data from Yahoo Finance from a specific period of time (datetime and pandas) and analyzes the stock market crashes on a plot.
-
-![S&P500](https://github.com/melisadigiacomo/yahoo_finance/blob/master/S%26P500%20index.png)
 
 <br /> 
 
