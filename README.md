@@ -31,7 +31,7 @@ I am always learning something!
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
 
-<br /> 
+<br/> 
 
 ## Projects overview
 
@@ -41,7 +41,16 @@ Developed my web portfolio.
 
 https://user-images.githubusercontent.com/87764919/139731719-4a77ae1c-842b-4895-bc8c-c822a1a3cf71.mp4  
 
-<br /> 
+<br/> 
+
+## [Data Viz cheatsheet](https://github.com/melisadigiacomo/dataviz-cheatsheet)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+A variety of charts with a simple R code.  
+### [LINK!](https://melisadigiacomo.github.io/dataviz-cheatsheet/)
+
+https://user-images.githubusercontent.com/87764919/141485370-e47931f7-28b1-4539-9b96-b57050e9fd02.mp4
+
+<br/> 
 
 ## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
@@ -50,8 +59,15 @@ Tool that scrapes data from Yahoo Finance from a specific period of time (dateti
 
 ![Stocks](https://github.com/melisadigiacomo/yahoo_finance/blob/master/images/October25.png)
 
+<br/> 
 
-<br /> 
+## [Cryptocurrency](https://github.com/melisadigiacomo/cryptocurrency)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
+Candlestick charts (plotly) and web scraping (requests and BeautifulSoup) of top cryptocurrencies prices. 
+
+![Cryptocurrency](https://github.com/melisadigiacomo/cryptocurrency/blob/master/images/bitcoin-candlestick-oct.png)
+
+<br/> 
 
 ## [Data Viz: plotly](https://github.com/melisadigiacomo/dataviz-plotly) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
@@ -59,7 +75,7 @@ Data analysis of gapminder dataset. Data visualization using plotly.
 
 https://user-images.githubusercontent.com/87764919/133643979-a409faf4-3b3d-4b7b-a330-c8dff6edcf8e.mp4
 
-<br /> 
+<br/> 
 
 ## [Web Dev](https://github.com/melisadigiacomo/webdev)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
@@ -68,7 +84,7 @@ My first steps in the Full Stack Web Dev.
 
 https://user-images.githubusercontent.com/87764919/132596527-738298e7-a96d-491a-b1c0-954e8073360b.mp4
 
-<br /> 
+<br/> 
 
 ## [Evolution of a plot](https://github.com/melisadigiacomo/plotevolution)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   
@@ -76,7 +92,15 @@ Step by step, how to make a better data visualization using ggplot2 and ggpubr p
 
 https://user-images.githubusercontent.com/87764919/131042543-a7fdb99a-12af-44a7-99f8-1947ba0d4fd0.mp4
 
-<br /> 
+<br/> 
+
+## [SQL queries](https://github.com/melisadigiacomo/SQL-queries)
+![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=SQL&logoColor=white)   
+SQL queries with world database.   
+
+![SQL](https://github.com/melisadigiacomo/SQL-queries/blob/master/images/SQLcommands.png)
+
+<br/> 
 
 ## [My Contact Form page](https://github.com/melisadigiacomo/contact-form)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
@@ -85,7 +109,7 @@ Make a my own contact page: responsive, functional, validated and secure.
 
 ![Contact-Page](https://github.com/melisadigiacomo/contact-form/blob/master/images/contact-melisa.png)
 
-<br /> 
+<br/> 
 
 ## [My Art Gallery](https://github.com/melisadigiacomo/my-art-gallery)   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)    
@@ -94,7 +118,7 @@ Made a website to show my artwork: photography, digital illustration and animate
 
 ![Myartgallery](https://github.com/melisadigiacomo/my-art-gallery/blob/master/images/GIF.png)
 
-<br /> 
+<br/> 
 
 ## [Set Analysis: Venn vs Upset diagrams](https://github.com/melisadigiacomo/SetAnalysis)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![RMarkdown](https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=RMarkdown&logoColor=white)    
@@ -103,7 +127,7 @@ Code that shows the differences between Venn diagrams (VennDiagram) and Upset di
 
 ![UpsetDiagram](https://github.com/melisadigiacomo/SetAnalysis/blob/master/images/AttributeScatterplot.png)
 
-<br /> 
+<br/> 
 
 ## [Wordcloud with Twitter hashtags](https://github.com/melisadigiacomo/tweets_wordcloud)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   
@@ -111,7 +135,7 @@ Code that returns a wordcloud of a specific topic or hashtag of Twitter (wordclo
 
 ![#datascience_wordcloud](https://github.com/melisadigiacomo/tweets_wordcloud/blob/master/%23datascience_wordcloud.png)
 
-<br /> 
+<br/> 
 
 ## [Book Analysis: Harry Potter](https://github.com/melisadigiacomo/bookanalysis)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
@@ -119,7 +143,7 @@ Text mining of book. Functions to tokenize (NLTK), manipulate text and build plo
 
 ![SentimentAnalysis](https://github.com/melisadigiacomo/bookanalysis/blob/master/images/characters1.png)
 
-<br /> 
+<br/> 
 
 ## [Filling a sticker album simulation](https://github.com/melisadigiacomo/stickeralbum_simulation)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
@@ -127,7 +151,7 @@ Functions that simulates the filling of *Copa América* sticker album (number of
 
 ![#CopaAmerica_album](https://github.com/melisadigiacomo/stickeralbum_simulation/blob/master/album.png)
 
-<br /> 
+<br/> 
 
 ## [Buenos Aires Trees Data Analysis](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)    
@@ -135,10 +159,4 @@ Code to download databases from a website (urllib.request) and has functions to 
 
 ![MostCommonTrees](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Mostcommon_trees.png)
 
-<br /> 
-
-## [Web Scraping Prices of Top Cryptocurrencies](https://github.com/melisadigiacomo/Webscraping_TopCryptocurrencies)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
-Code for web scraping data (beautifulsoup4) that returns a table with prices of the top criptocurrencies.
-
-![Cryptocurrencies_table](https://github.com/melisadigiacomo/Webscraping_TopCryptocurrencies/blob/master/Crypto_table.jpg)
+<br/> 
