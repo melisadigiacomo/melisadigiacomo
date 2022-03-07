@@ -1,7 +1,14 @@
 ##  Portfolio
 
-Hello everyone! My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. My areas of strength include molecular biology, data analysis, data visualization and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.codes/)** from scratch using plain HTML, CSS and JS.  
-I am always learning something!
+👋 Hello everyone! 
+
+👩‍🔬 My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. 
+
+💻🧬 My areas of strength include molecular biology, data visualization, data analysis and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.codes/)** from scratch using plain HTML, CSS and JS.
+
+❤️ I am passionate about data visualization. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots.
+
+💫 I am always learning something!
 
 ![Portfolio_Photo (1)](https://user-images.githubusercontent.com/87764919/126541673-2979eff6-cc3a-409b-b73e-9ab58def62de.jpg)
 
