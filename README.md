@@ -4,7 +4,7 @@
 
 👩‍🔬 My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. 
 
-💻🧬 My areas of strength include molecular biology, data visualization, data analysis and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.codes/)** from scratch using plain HTML, CSS and JS.
+💻🧬 My areas of strength include molecular biology, data visualization, data analysis and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.github.io/melisadigiacomo-portfolio/index.html)** from scratch using plain HTML, CSS and JS.
 
 ❤️ I am passionate about data visualization. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots.
 
@@ -44,7 +44,7 @@
 
 ## Some of my projects: overview
 
-## [Web Portfolio](https://melisadigiacomo.codes/) 
+## [Web Portfolio](https://melisadigiacomo.github.io/melisadigiacomo-portfolio/index.html) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
 Developed my web portfolio. 
 
