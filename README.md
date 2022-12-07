@@ -46,6 +46,7 @@
 
 ## [Web Portfolio](https://melisadigiacomo.github.io/melisadigiacomo-portfolio/index.html) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
+
 Developed my web portfolio. 
 
 ![melisaportfolio](https://github.com/melisadigiacomo/melisadigiacomo-portfolio/blob/master/images/portfolio_melisadigiacomo.gif)
@@ -54,6 +55,7 @@ Developed my web portfolio.
 
 ## [Data Viz cheatsheet](https://github.com/melisadigiacomo/dataviz-cheatsheet)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
 A variety of charts with a simple R code.  
 ### [LINK!](https://melisadigiacomo.github.io/dataviz-cheatsheet/)
 
@@ -61,8 +63,21 @@ A variety of charts with a simple R code.
 
 <br/> 
 
+## [30 Day Chart Challenge](https://github.com/melisadigiacomo/-30DayChartChallenge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)   
+
+Using different datasets each day and a variety of tools, I built 30 charts to complete the challenge. 
+### [LINK!](https://github.com/melisadigiacomo/-30DayChartChallenge)
+
+![contributions](https://github.com/melisadigiacomo/-30DayChartChallenge/blob/master/allcontrib.gif)
+
+<br/> 
+
 ## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
+
 Tool that scrapes data from Yahoo Finance from a specific period of time (datetime and pandas) and analyzes active stocks of popular companies and stock market crashes on plots using plotly.  
 ### [LINK!](melisadigiacomo.github.io/yahoo_finance/)
 
@@ -71,42 +86,20 @@ Tool that scrapes data from Yahoo Finance from a specific period of time (dateti
 <br/> 
 
 ## [Covid-19 cases](https://github.com/melisadigiacomo/covid-19_cases_deaths)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
+
 Report that analyzes cases and deaths attributed to COVID-19 since January, 2020.
 ### [LINK!](https://melisadigiacomo.github.io/covid-19_cases_deaths/)
 
 ![covid](https://github.com/melisadigiacomo/covid-19_cases_deaths/blob/master/images/Argentina_cases_deaths.png)
 
 <br/> 
-
-## [Cryptocurrency](https://github.com/melisadigiacomo/cryptocurrency)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
-Candlestick charts (plotly) and web scraping (requests and BeautifulSoup) of top cryptocurrencies prices. 
-
-![Cryptocurrency](https://github.com/melisadigiacomo/melisadigiacomo-portfolio/blob/master/images/bitcoincandlestick.gif)
-
-<br/> 
-
-## [Web Dev](https://github.com/melisadigiacomo/webdev)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)   
-
-My first steps in the Full Stack Web Dev.
-
-![linkspage](https://github.com/melisadigiacomo/melisadigiacomo-portfolio/blob/master/images/LinksPage.gif)
-
-<br/> 
-
-## [My Art Gallery](https://github.com/melisadigiacomo/my-art-gallery)   
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)    
-Made a website to show my artwork: photography, digital illustration and animated GIFs.   
-### [Link Here!](https://melisagallery.netlify.app/)
-
-![myartgallery](https://user-images.githubusercontent.com/87764919/158667378-9791afe3-3bf9-4cca-bcb2-ebd240d31ced.gif)
-
-<br/> 
-
+   
 ## [Book Analysis: Harry Potter](https://github.com/melisadigiacomo/bookanalysis)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)    
+
 Text mining of book. Functions to tokenize (NLTK), manipulate text and build plots (matplotlib). Sentiment analysis (textblob).
 
 ![SentimentAnalysis](https://github.com/melisadigiacomo/melisadigiacomo-portfolio/blob/master/images/bookanalysis.gif)
