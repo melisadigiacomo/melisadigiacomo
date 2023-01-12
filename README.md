@@ -10,7 +10,7 @@
 
 💫 I am always learning something!
 
-![Portfolio_Photo (1)](https://github.com/melisadigiacomo/melisadigiacomo-portfolio/blob/master/images/datavizcheatsheet.png)
+![Portfolio_Photo (1)](https://github.com/melisadigiacomo/-30DayChartChallenge/blob/master/30daychartchallenge.png)
 
 <br/> 
 
@@ -74,6 +74,18 @@ Using different datasets each day and a variety of tools, I built 30 charts to c
 ![contributions](https://github.com/melisadigiacomo/-30DayChartChallenge/blob/master/allcontrib.gif)
 
 <br/> 
+
+## [Big Data Project](https://github.com/melisadigiacomo/bigdata)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
+![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-1a73e8?style=for-the-badge&logo=Google&logoColor=white)&nbsp;    
+
+Project of big data course: Google Data Studio, Python and SQL Data Analysis 
+### [LINK!](https://github.com/melisadigiacomo/bigdata)
+
+![bigdata](https://github.com/melisadigiacomo/bigdata/blob/master/images/report.gif)
+
+<br/>
 
 ## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
