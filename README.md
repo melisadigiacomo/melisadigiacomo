@@ -2,13 +2,13 @@
 
 👋 Hello everyone! 
 
-👩‍🔬 My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. 
+🇦🇷 My name is Melisa Di Giacomo and I am from Argentina. I have a MSc in Biotechnology and I am currently pursuing a PhD at the Universidad Nacional de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. 
 
-💻🧬 My areas of strength include data visualization, data analysis and programming (R and Python). 
+💻 My areas of strength include data visualization and data analysis. I have skills in R, Python, SQL and spreadsheets to extract insights from complex datasets, and also in using PowerBI and Tableau to create visually compelling and interactive dashboards. 
 
-❤️ I am passionate about data visualization. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter [#30daychartchallenge](https://twitter.com/30DayChartChall) where I built 30 charts using different datasets each day and a variety of tools. 
+❤️ I am passionate about data viz. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter **[#30daychartchallenge](https://twitter.com/30DayChartChall)** where I built 30 charts using different datasets each day and a variety of tools.
 
-I took my first steps in the Full Stack Web Dev </>. As a final project of a bootcamp I've developed my **[web portfolio](https://bit.ly/melisadigiacomo)** from scratch using plain HTML, CSS and JS.
+:globe_with_meridians: I took my first steps in the Full Stack Web Dev </>. As a final project of a bootcamp I've developed my **[web portfolio](https://bit.ly/melisadigiacomo)** from scratch using plain HTML, CSS and JS, showcasing my skills in data visualization on the web.
 
 💫 I am always learning something!
 
@@ -30,19 +30,20 @@ I took my first steps in the Full Stack Web Dev </>. As a final project of a boo
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Office-c43f1d?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;  
 ![GIT](https://img.shields.io/badge/GIT-D83B01?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;   
 ![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 ![RMarkdown](https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=RMarkdown&logoColor=white)&nbsp;
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Office-c43f1d?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)  
 
-<br/> 
+br/> 
 
 ## Some of my projects: overview
 
