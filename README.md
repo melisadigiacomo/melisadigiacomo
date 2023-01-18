@@ -4,9 +4,11 @@
 
 👩‍🔬 My name is Melisa Di Giacomo. I am a Biotechnologist and I am currently pursuing a doctorate at the Universidad de Rosario, with a job at the **[IICAR-CONICET](https://www.iicar-conicet.gob.ar/grupos-de-investigacion/genetica-y-mejoramiento-de-tomate/)**. 
 
-💻🧬 My areas of strength include molecular biology, data visualization, data analysis and programming (R and Python). I am taking my first steps in the Full Stack Web Dev </> I have experienced web design while developing the **[website](http://codigotomate.com.ar/)** with Wordpress for our group. I've recently developed my **[web portfolio](https://melisadigiacomo.github.io/melisadigiacomo-portfolio/index.html)** from scratch using plain HTML, CSS and JS.
+💻🧬 My areas of strength include data visualization, data analysis and programming (R and Python). 
 
-❤️ I am passionate about data visualization. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots.
+❤️ I am passionate about data visualization. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter [#30daychartchallenge](https://twitter.com/30DayChartChall) where I built 30 charts using different datasets each day and a variety of tools. 
+
+I took my first steps in the Full Stack Web Dev </>. As a final project of a bootcamp I've developed my **[web portfolio](https://bit.ly/melisadigiacomo)** from scratch using plain HTML, CSS and JS.
 
 💫 I am always learning something!
 
