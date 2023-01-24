@@ -90,6 +90,18 @@ Project of big data course: Google Data Studio, Python and SQL Data Analysis
 
 <br/>
 
+## [Tableau dashboard](https://github.com/melisadigiacomo/tableau_dashboards/tree/master/netflix)
+![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;  
+
+
+Netflix data Analysis; data cleaning coding in Python and final data visualization on a Tableau dashboard.
+### [LINK!](https://public.tableau.com/app/profile/melisa.di.giacomo/viz/Netflix_DataAnalysis_16742448163570/Home_dashboard)
+
+![tabelaudashboard](https://github.com/melisadigiacomo/tableau_dashboards/blob/master/netflix/images/netflix_dashboard.gif)
+
+<br/>
+
 ## [Yahoo Finance](https://github.com/melisadigiacomo/yahoo_finance)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)   
 
