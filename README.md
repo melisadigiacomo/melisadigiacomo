@@ -32,7 +32,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Office-c43f1d?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;  
+![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+![Looker](https://img.shields.io/badge/Looker-3f82ed?style=for-the-badge&logo=looker&logoColor=white)&nbsp;  
 ![GIT](https://img.shields.io/badge/GIT-D83B01?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -81,7 +82,7 @@ Using different datasets each day and a variety of tools, I built 30 charts to c
 ## [Big Data Project](https://github.com/melisadigiacomo/bigdata)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
-![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-1a73e8?style=for-the-badge&logo=Google&logoColor=white)&nbsp;    
+![Looker](https://img.shields.io/badge/Looker-3f82ed?style=for-the-badge&logo=looker&logoColor=white)&nbsp;  
 
 Project of big data course: Google Data Studio, Python and SQL Data Analysis 
 ### [LINK!](https://github.com/melisadigiacomo/bigdata)
