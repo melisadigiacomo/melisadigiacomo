@@ -2,9 +2,9 @@
 
 👋 Hello everyone! 
 
-🇦🇷 My name is Melisa Di Giacomo and I am from Argentina. I have a job as a BI analyst working on Qlik. I have a MSc in Biotechnology and I am currently pursuing a PhD at the Universidad Nacional de Rosario.
+🇦🇷 My name is Melisa Di Giacomo and I am from Argentina. I have a job as a BI analyst working on Qlik. I have a MSc in Biotechnology and a PhD at the Universidad Nacional de Rosario.
 
-💻 My areas of strength include data visualization and data analysis. I have skills in R, Python, SQL and spreadsheets to extract insights from complex datasets, and also in using PowerBI and Tableau to create visually compelling and interactive dashboards. I am now gaining experience in Qlik in my new job. 
+💻 My areas of strength include data visualization and data analysis. I have skills in R, Python, SQL and spreadsheets to extract insights from complex datasets, and also in using Looker, PowerBI and Tableau to create visually compelling and interactive dashboards. I am now gaining experience in Qlik in my new job. 
 
 ❤️ I am passionate about data viz. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter **[#30daychartchallenge](https://twitter.com/30DayChartChall)** where I built 30 charts using different datasets each day and a variety of tools.
 
