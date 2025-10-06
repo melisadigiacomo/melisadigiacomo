@@ -2,11 +2,12 @@
 
 👋 Hello everyone! 
 
-🇦🇷 My name is Melisa Di Giacomo and I am from Argentina. I have a job as a BI analyst working on Qlik. I have a MSc in Biotechnology and a PhD at the Universidad Nacional de Rosario.
+🇦🇷 My name is Melisa Di Giacomo and I am from Argentina. I’m a **Business Intelligence Lead** focused on data analysis and architecture with **Qlik**.
+I hold an MSc in Biotechnology and a PhD from the Universidad Nacional de Rosario.
 
-💻 My areas of strength include data visualization and data analysis. I have skills in R, Python, SQL and spreadsheets to extract insights from complex datasets, and also in using Looker, PowerBI and Tableau to create visually compelling and interactive dashboards. I am now gaining experience in Qlik in my new job. 
+💻 I am a certified **Qlik Sense Data Architect**. My areas of strength include data visualization and data analysis. I have skills in R, Python, SQL and spreadsheets to extract insights from complex datasets, as well as in using BI tools to create visually compelling and interactive dashboards.
 
-❤️ I am passionate about data viz. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. Recently I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter **[#30daychartchallenge](https://twitter.com/30DayChartChall)** where I built 30 charts using different datasets each day and a variety of tools.
+❤️ I am passionate about data viz. It is a fact that the right charts and reports make a huge impact on decision making and future results. I like to think myself as a designer of information. I have developed an **[R data viz cheatsheet website](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)** where I described and shared R codes of more than 30 types of plots. I participated in the Twitter **[#30daychartchallenge](https://twitter.com/30DayChartChall)** where I built 30 charts using different datasets each day and a variety of tools.
 
 :globe_with_meridians: I took my first steps in the Full Stack Web Dev </>. As a final project of a bootcamp I've developed my **[web portfolio](https://bit.ly/melisadigiacomo)** from scratch using plain HTML, CSS and JS, showcasing my skills in data visualization on the web.
 
@@ -45,7 +46,7 @@
 ![RMarkdown](https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=RMarkdown&logoColor=white)&nbsp;
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
 
-br/> 
+<br/> 
 
 ## Some of my projects: overview
 
