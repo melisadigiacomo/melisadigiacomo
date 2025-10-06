@@ -13,6 +13,11 @@ I hold an MSc in Biotechnology and a PhD from the Universidad Nacional de Rosari
 
 💫 I am always learning something!
 
+**[Qlik Sense Data Architect Certification](https://www.credly.com/badges/ccba74d5-e49e-472e-b14f-06ed8b34b72c/public_url)**
+
+<img width="90" height="90" alt="qlik-sense-data-architect-certification" src="https://github.com/user-attachments/assets/4728bd8f-3f23-48fa-80e9-2867c3b0d44c" />
+
+
 ![Portfolio_Photo (1)](https://github.com/melisadigiacomo/-30DayChartChallenge/blob/master/30daychartchallenge.png)
 
 <br/> 
